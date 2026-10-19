@@ -248,5 +248,5 @@ print(final_plot)
 # Save the image
 pdf_width <- 12
 pdf_height <- 10.4
-image_file_name <- paste0("results/images/Figure10.eps")
+image_file_name <- paste0("results/images/Figure8.eps")
 ggsave(image_file_name, width = pdf_width, height = pdf_height)
